@@ -17,3 +17,6 @@ Utilizando la api de spotify crear un endpoint al que ingresando el nombre de la
  El el endpoint debe ser el siguiente
 
 http://localhost/api/v1/albums?q=<band-name>
+
+Una prueba del funcionamiento se puede encontrar en el siguiente enlace:
+    https://scafil.000webhostapp.com/api/v1/albums?q=led%20zeppelin
