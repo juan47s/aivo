@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^api/v1/albums$ /spotify-api/index.php
